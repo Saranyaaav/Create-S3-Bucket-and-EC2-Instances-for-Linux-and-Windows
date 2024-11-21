@@ -54,18 +54,32 @@ Connect to the Windows instance using RDP.</br>
 
 ![Screenshot 2024-11-21 222853](https://github.com/user-attachments/assets/f9dc53c3-d93e-4c0b-b071-9d21f3d4e720)
 
+![Screenshot 2024-11-21 223321](https://github.com/user-attachments/assets/e1b9d670-f4e9-492b-849f-d7b12ca0e8ac)
 
 ### VERSIONING :
-
+![Screenshot 2024-11-21 223753](https://github.com/user-attachments/assets/9c3f115f-646c-4b5a-9286-c9cb0a48a396)
 
 ### EC2 LINUX:
+![Screenshot 2024-11-21 224129](https://github.com/user-attachments/assets/23096350-86b5-45fa-8f3e-a3dc4e6ea8da)
+
+![Screenshot 2024-11-21 224212](https://github.com/user-attachments/assets/00075821-b9b4-48ab-bb63-01884d78f40e)
+
+![Screenshot 2024-11-21 224019](https://github.com/user-attachments/assets/8a518481-60b1-4a46-809b-445b208842d0)
+
+![Screenshot 2024-11-21 223950](https://github.com/user-attachments/assets/bfc2ef3e-b370-4c70-9b06-80644753137e)
+
+![Screenshot 2024-11-21 223906](https://github.com/user-attachments/assets/d465b11c-c880-4a7a-8a7f-63a7c1ba276e)
 
 ### EC2 WINDOWS :
+![Screenshot 2024-11-21 223650](https://github.com/user-attachments/assets/d765fa01-8b4c-48fc-a100-99b285c71ea4)
+
+![Screenshot 2024-11-21 223618](https://github.com/user-attachments/assets/cba1357c-945a-41d1-855a-b748ede7d868)
+
+![Screenshot 2024-11-21 223455](https://github.com/user-attachments/assets/9631f50f-e3f6-4539-bb1a-7e5165b1d9a9)
+
+![Screenshot 2024-11-21 224609](https://github.com/user-attachments/assets/5ec4f44f-5d58-483a-bb2d-7a4d24bfd57a)
+
 
 ## RESULT :
 Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
- 
-
-  
-
 
